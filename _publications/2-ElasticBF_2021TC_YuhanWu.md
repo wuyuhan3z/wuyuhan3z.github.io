@@ -3,7 +3,7 @@ title: "Elastic Bloom Filter: Deletable and ExpandableFilter Using Elastic Finge
 collection: publications
 permalink: /publication/2-ElasticBF_2021TC_YuhanWu
 excerpt: 'This paper is....'
-Author: 'aaaa..'
+author: 'aaaa..'
 date: 2021-03-22
 venue: 'March 22 '
 paperurl: 'http://academicpages.github.io/files/2-ElasticBF_2021TC_YuhanWu.pdf'
