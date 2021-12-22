@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-aaa
-
-+Lorem ipsum.
+Welcome to my computer world！
