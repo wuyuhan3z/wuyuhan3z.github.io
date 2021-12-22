@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my computer world！
+I'm Yuhan Wu, a Ph.D. majoring in Computer Science at Peking University, advised by Prof. Tong Yang. 
+
+My research interests lies in all interesting data structures from network systems, databases, and etc.
