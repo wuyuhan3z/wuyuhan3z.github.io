@@ -3,8 +3,9 @@ title: "MapEmbed: Perfect Hashing with High Load Factor and Fast Update."
 collection: publications
 permalink: /publication/1-MapEmbed_2021KDD_YuhanWu
 excerpt: 'This paper is....'
+Author: 'aaaa..'
 date: 2021-08-14
-venue: 'Journal 1'
+venue: 'August 14'
 paperurl: 'http://academicpages.github.io/files/1-MapEmbed_2021KDD_YuhanWu.pdf'
 
 
