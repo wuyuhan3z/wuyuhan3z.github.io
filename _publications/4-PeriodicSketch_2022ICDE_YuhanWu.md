@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/4-PeriodicSketch_2022ICDE_YuhanWu
 excerpt: 'This paper is....'
 Author: 'aaaa..'
-date: 2021-11-02
-venue: 'November 02'
+date: 2022-99-99
+venue: ' not yet'
 paperurl: 'http://academicpages.github.io/files/4-PeriodicSketch_2022ICDE_YuhanWu.pdf'
 
 
