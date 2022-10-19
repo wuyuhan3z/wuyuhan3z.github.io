@@ -23,34 +23,68 @@ Field Of Study: Electronics Engineering and Computer Science 信息科学技术�
 
 Dates attended or expected graduation: 2017 – 2021
 
+
 Peking University
+
 Degree Name: Doctor of Philosophy - PhD 
+
 Field Of Study: Computer Science 计算机学院
+
 Dates attended: 2021 - present
 
 ## Experience
+
 Alibaba Group Research Internship
+
 Dates Employed: Oct. 2021 – Apr. 2022
+
 Location Beijing, China
 
-## Awards
 
-### Research
-北京大学未名学士（全校50人）
+
+## Honors and Awards
+
+
+### Academic
+
+北京大学未名学士
+
 北京市优秀本科毕业设计
+
 北京大学信息科学技术学院“十佳”本科毕业设计
+
 北京大学本科生科研训练优秀项目奖
+
+
 
 
 ### Scholarship
 
+北京大学“博士研究生校长奖学金”
+
+北京大学董氏奖学金
+
+北京大学巍璘奖学金 Wei Lin Scholarship
+
+
 ### Programming
 
+
 #### Olympiad in Informatics (2011-2016)
+
 National Olympiad in Informatics (NOI 2015), the silver medal
+
 National Olympiad in Informatics (NOI 2016), the silver medal
 
+
 #### ACM-ICPC (2017-2018)
+
 The ACM-ICPC Asia Regional Contest Shenyang Site 2018, the Silver Medal
 
+
+### Others 
+
+北京大学优秀毕业生 Excellent Graduate in PKU
+
+北京大学三好学生 Merit Student
 
