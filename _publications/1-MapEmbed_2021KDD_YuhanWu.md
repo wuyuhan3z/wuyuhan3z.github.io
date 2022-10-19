@@ -15,6 +15,6 @@ paperurl: 'http://wuyuhan3z.github.io/files/1-MapEmbed_2021KDD_YuhanWu.pdf'
 
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-[Download paper here](http://academicpages.github.io/files/1-MapEmbed_2021KDD_YuhanWu.pdf)
+<!-- [Download paper here](http://academicpages.github.io/files/1-MapEmbed_2021KDD_YuhanWu.pdf) -->
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
