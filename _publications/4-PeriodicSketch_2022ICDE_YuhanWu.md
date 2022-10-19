@@ -15,6 +15,4 @@ paperurl: 'http://wuyuhan3z.github.io/files/4-PeriodicSketch_2022ICDE_YuhanWu.pd
 
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-[Download paper here](http://wuyuhan3z.github.io/files/4-PeriodicSketch_2022ICDE_YuhanWu.pdf)
-
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
