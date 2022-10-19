@@ -6,7 +6,7 @@ excerpt: 'This paper is....'
 author: 'aaaa..'
 date: 2021-03-22
 venue: 'March 22 '
-paperurl: 'http://academicpages.github.io/files/2-ElasticBF_2021TC_YuhanWu.pdf'
+paperurl: 'http://wuyuhan3z.github.io/files/2-ElasticBF_2021TC_YuhanWu.pdf'
 
 
 ---
