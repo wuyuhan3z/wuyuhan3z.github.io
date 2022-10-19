@@ -15,6 +15,6 @@ paperurl: 'http://wuyuhan3z.github.io/files/3-ErrorEstimationforSketch_2021IMC_Y
 
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-[Download paper here](http://academicpages.github.io/files/3-ErrorEstimationforSketch_2021IMC_YuhanWu.pdf)
+[Download paper here](http://wuyuhan3z.github.io/files/3-ErrorEstimationforSketch_2021IMC_YuhanWu.pdf)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
