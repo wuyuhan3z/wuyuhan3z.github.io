@@ -8,54 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Yuhan Wu, a Ph.D. majoring in Computer Science at Peking University, advised by Prof. Tong Yang. 
+I'm Yuhan Wu (吴钰晗), a Ph.D. student majoring in Computer Science at Peking University, advised by Prof. [Tong Yang](https://yangtonghome.github.io/). 
 
 My research interests lies in all interesting data structures from network systems, databases, and etc.
 
 
-Experience:
+## Education
 
-Olympiad in Informatics (2011-2016): 
-National Olympiad in Informatics (NOI 2015), the silver medal; 
-National Olympiad in Informatics (NOI 2016), the silver medal;
-ACM-ICPC (2017-2018): 
-The ACM-ICPC Asia Regional Contest Shenyang Site 2018, the Silver Medal
+Peking University
+Degree Name: Bachelor of Engineering - BE
+Field Of Study: Electronics Engineering and Computer Science 信息科学技术学院
+Dates attended or expected graduation: 2017 – 2021
 
+Peking University
+Degree Name: Doctor of Philosophy - PhD 
+Field Of Study: Computer Science 计算机学院
+Dates attended: 2021 - present
 
-Alibaba Group
-Research Internship
-Company NameAlibaba Group Internship
-Dates EmployedOct 2021 – Present
+## Experience
+Alibaba Group Research Internship
+Dates Employed: Oct. 2021 – Apr. 2022
 Location Beijing, China
 
+## Awards
 
-Education
+# Olympiad in Informatics (2011-2016)
+National Olympiad in Informatics (NOI 2015), the silver medal
+National Olympiad in Informatics (NOI 2016), the silver medal
 
-Degree Name Bachelor of Engineering - BEField Of StudyElectronics Engineering and Computer Science 信息科学技术学院
-Dates attended or expected graduation 2017 – 2021
-
- 
-Peking University
-Peking University
-Degree Name Doctor of Philosophy - PhD Field Of Study Computer Science
-Dates attended 2021
-
-
-Tools & Technologies
-C
-SQL
-C++
-HTML
-Microsoft PowerPoint
-Microsoft Office
-LaTeX
-MATLAB
-Java
-D3.js
-JavaScript
-Python (Programming Language)
-TensorFlow
-Languages
-普通话
-中文
-English
+# ACM-ICPC (2017-2018)
+The ACM-ICPC Asia Regional Contest Shenyang Site 2018, the Silver Medal
