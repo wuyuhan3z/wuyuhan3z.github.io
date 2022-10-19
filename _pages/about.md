@@ -47,9 +47,9 @@ Location Beijing, China
 
 ### Academic
 
-北京大学未名学士
+PKU Junior Scholar 北京大学未名学士 
 
-北京市优秀本科毕业设计
+北京市优秀本科毕业设计 
 
 北京大学信息科学技术学院“十佳”本科毕业设计
 
@@ -60,11 +60,11 @@ Location Beijing, China
 
 ### Scholarship
 
-北京大学“博士研究生校长奖学金”
+Presidental Scholarship 北京大学“博士研究生校长奖学金” 
 
-北京大学董氏奖学金
+Tun Scholarship 北京大学董氏奖学金 
 
-北京大学巍璘奖学金 Wei Lin Scholarship
+Wei Lin Scholarship 北京大学巍璘奖学金
 
 
 ### Programming
@@ -72,9 +72,9 @@ Location Beijing, China
 
 #### Olympiad in Informatics (2011-2016)
 
-National Olympiad in Informatics (NOI 2015), the silver medal
+全国信息学奥利匹克竞赛银牌 National Olympiad in Informatics (NOI 2015), the silver medal
 
-National Olympiad in Informatics (NOI 2016), the silver medal
+全国信息学奥利匹克竞赛银牌 National Olympiad in Informatics (NOI 2016), the silver medal
 
 
 #### ACM-ICPC (2017-2018)
@@ -84,7 +84,7 @@ The ACM-ICPC Asia Regional Contest Shenyang Site 2018, the Silver Medal
 
 ### Others 
 
-北京大学优秀毕业生 Excellent Graduate in PKU
+Excellent Graduate in PKU 北京大学优秀毕业生
 
-北京大学三好学生 Merit Student
+Merit Student 北京大学三好学生 
 
