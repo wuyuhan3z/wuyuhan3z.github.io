@@ -16,8 +16,11 @@ My research interests lies in all interesting data structures from network syste
 ## Education
 
 Peking University
+
 Degree Name: Bachelor of Engineering - BE
+
 Field Of Study: Electronics Engineering and Computer Science 信息科学技术学院
+
 Dates attended or expected graduation: 2017 – 2021
 
 Peking University
@@ -32,9 +35,22 @@ Location Beijing, China
 
 ## Awards
 
-# Olympiad in Informatics (2011-2016)
+### Research
+北京大学未名学士（全校50人）
+北京市优秀本科毕业设计
+北京大学信息科学技术学院“十佳”本科毕业设计
+北京大学本科生科研训练优秀项目奖
+
+
+### Scholarship
+
+### Programming
+
+#### Olympiad in Informatics (2011-2016)
 National Olympiad in Informatics (NOI 2015), the silver medal
 National Olympiad in Informatics (NOI 2016), the silver medal
 
-# ACM-ICPC (2017-2018)
+#### ACM-ICPC (2017-2018)
 The ACM-ICPC Asia Regional Contest Shenyang Site 2018, the Silver Medal
+
+
