@@ -49,7 +49,7 @@ Location Beijing, China
 
 PKU Junior Scholar 北京大学未名学士 
 
-北京市优秀本科毕业设计 
+Beijing outstanding undergraduate graduation thesis 北京市优秀本科毕业设计 
 
 北京大学信息科学技术学院“十佳”本科毕业设计
 
