@@ -17,7 +17,7 @@ My research interests lies in all interesting data structures from network syste
 
 Peking University
 
-Degree Name: Bachelor of Engineering - BE
+Degree Name: Bachelor of Science - BS
 
 Field Of Study: Electronics Engineering and Computer Science 信息科学技术学院
 
