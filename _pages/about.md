@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yuhan Wu (吴钰晗), a Ph.D. student majoring in Computer Science at Peking University, advised by Prof. [Tong Yang](https://yangtonghome.github.io/). 
+I'm Yuhan Wu (吴钰晗), a Ph.D. candidate majoring in Computer Science at Peking University, advised by Prof. [Tong Yang](https://yangtonghome.github.io/). 
 
-My research interests lies in all interesting data structures from network systems, databases, and etc.
+My research interests lies in all interesting data structures from networks, storage, databases, and more, with a keen interest in large models.
+
+Email: yuhan.wu AAT pku.edu.cn
+
+Wechat: yuhanwuuu
+
+Ins: yuhanwuuuu
 
 Last updated: October 17, 2023.
 
