@@ -12,6 +12,7 @@ I'm Yuhan Wu (吴钰晗), a Ph.D. student majoring in Computer Science at Peking
 
 My research interests lies in all interesting data structures from network systems, databases, and etc.
 
+Last updated: October 17, 2023.
 
 ## Education
 
@@ -45,26 +46,33 @@ Location Beijing, China
 ## Honors and Awards
 
 
+### Scholarship
+
+National Scholarship (China), 研究生国家奖学金
+
+Presidental Scholarship, 北京大学“博士研究生校长奖学金” 
+
+Tun Scholarship, 北京大学董氏奖学金 
+
+Wei Lin Scholarship, 北京大学巍璘奖学金
+
+
 ### Academic
 
-PKU Junior Scholar 北京大学未名学士 
+Best Reviewers of KDD 2023, KDD杰出审稿人奖
 
-Beijing outstanding undergraduate graduation thesis 北京市优秀本科毕业设计 
+PKU Junior Scholar, 北京大学未名学士 
+
+Beijing outstanding undergraduate graduation thesis, 北京市优秀本科毕业设计 
 
 北京大学信息科学技术学院“十佳”本科毕业设计
 
 北京大学本科生科研训练优秀项目奖
 
+北京大学“学术创新奖”
 
 
 
-### Scholarship
-
-Presidental Scholarship 北京大学“博士研究生校长奖学金” 
-
-Tun Scholarship 北京大学董氏奖学金 
-
-Wei Lin Scholarship 北京大学巍璘奖学金
 
 
 ### Programming
@@ -84,7 +92,10 @@ The ACM-ICPC Asia Regional Contest Shenyang Site 2018, the Silver Medal
 
 ### Others 
 
-Excellent Graduate in PKU 北京大学优秀毕业生
+Excellent Graduate in PKU, 北京大学优秀毕业生
 
-Merit Student 北京大学三好学生 
+Pacemaker to Merit Student, 北京大学三好学生标兵
+
+Merit Student, 北京大学三好学生 
+
 
