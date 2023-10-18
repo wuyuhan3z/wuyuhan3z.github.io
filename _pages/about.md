@@ -67,7 +67,7 @@ Wei Lin Scholarship, 北京大学巍璘奖学金
 
 Best Reviewers of KDD 2023, KDD杰出审稿人奖
 
-PKU Junior Scholar, 北京大学未名学士 
+PKU Junior Scholar (Top 50 (<2%) in PKU), 北京大学未名学士 
 
 Beijing outstanding undergraduate graduation thesis, 北京市优秀本科毕业设计 
 
