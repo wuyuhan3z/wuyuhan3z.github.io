@@ -86,9 +86,9 @@ Beijing outstanding undergraduate graduation thesis, 北京市优秀本科毕业
 
 #### Olympiad in Informatics (2011-2016)
 
-全国信息学奥利匹克竞赛银牌 National Olympiad in Informatics (NOI 2015), the silver medal
+National Olympiad in Informatics (NOI 2015), the silver medal, 全国信息学奥利匹克竞赛银牌 
 
-全国信息学奥利匹克竞赛银牌 National Olympiad in Informatics (NOI 2016), the silver medal
+National Olympiad in Informatics (NOI 2016), the silver medal, 全国信息学奥利匹克竞赛银牌
 
 
 #### ACM-ICPC (2017-2018)
