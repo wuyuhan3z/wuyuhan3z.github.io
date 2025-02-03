@@ -72,18 +72,19 @@ My research interests center on **developing innovative data structures (数据�
 
 ## Publications
 
-| No. | Authors & Title                                                                                                            | Venue                                      | Role                                        |
-| --- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------- |
-| 1   | **Wu Yuhan**, et al. "Online Detection of Outstanding Quantiles with QuantileFilter."                                      | *ICDE 2024*                                | **Independent First Author, CCF-A**         |
-| 2   | **Wu Yuhan**, et al. "VisionEmbedder: Bit-Level-Compact Key-Value Storage with Constant Lookup, Rapid Updates, and Rare Failure." | *ICDE 2024*                                | **Independent First Author, CCF-A**         |
-| 3   | **Wu Yuhan**, et al. "Scalable Overspeed Item Detection in Streams."                                                       | *ICDE 2024*                                | **First-ranked Co-First Author, CCF-A**       |
-| 4   | **Wu Yuhan**, et al. "MicroscopeSketch: Accurate Sliding Estimation Using Adaptive Zooming."                               | *KDD 2023*                                 | **First-ranked Co-First Author, CCF-A**       |
-| 5   | **Wu Yuhan**, et al. "Elastic Bloom Filter: Deletable and Expandable Filter using Elastic Fingerprints."                   | *IEEE Transactions on Computers 2021*      | **First-ranked Co-First Author, CCF-A**       |
-| 6   | **Wu Yuhan**, et al. "MapEmbed: Perfect Hashing with High Load Factor and Fast Update."                                    | *KDD 2021*                                 | **First-ranked Co-First Author, CCF-A**       |
-| 7   | **Wu Yuhan**, et al. "Kvsagg: Secure aggregation of distributed key-value sets."                                         | *ICDE 2023*                                | **First-ranked Co-First Author, CCF-A**       |
-| 8   | **Yang Kaicheng**, **Wu Yuhan**, et al. "ChameleMon: Shifting Measurement Attention as Network State Changes."             | *SIGCOMM 2023*                             | **Co-First Author, CCF-A**                    |
-| 9   | **Guo Jiarui**, **Wu Yuhan**, et al. "SketchPolymer: Estimate Per-item Tail Quantile Using One Sketch."                     | *KDD 2023*                                 | **Co-First Author, CCF-A**                    |
-| 10  | **Fan Zhuochen**, **Wu Yuhan**, et al. "PISketch: Finding Persistent and Infrequent Flows."                                | *IEEE/ACM Transactions on Networking 2023* | **Co-First Author, CCF-A**                    |
+
+| No. | Authors & Title | Venue | Role |
+| --- | --------------- | ----- | ---- |
+| 1 | **Yuhan Wu**, Aomufei Yuan, Zhouran Shi, et al. "Online Detection of Outstanding Quantiles with QuantileFilter." | *ICDE 2024* | **Independent First Author, CCF-A** |
+| 2 | **Yuhan Wu**, Feiyu Wang, Yifan Zhu, et al. "VisionEmbedder: Bit-Level-Compact Key-Value Storage with Constant Lookup, Rapid Updates, and Rare Failure." | *ICDE 2024* | **Independent First Author, CCF-A** |
+| 3 | **Yuhan Wu**, Hanbo Wu, Chengjun Jia, et al. "Scalable Overspeed Item Detection in Streams." | *ICDE 2024* | **First-ranked Co-First Author, CCF-A** |
+| 4 | **Yuhan Wu**, Shiqi Jiang, Siyuan Dong, et al. "MicroscopeSketch: Accurate Sliding Estimation Using Adaptive Zooming." | *KDD 2023* | **First-ranked Co-First Author, CCF-A** |
+| 5 | **Yuhan Wu**, Jintao He, Shen Yan, et al. "Elastic Bloom Filter: Deletable and Expandable Filter using Elastic Fingerprints." | *IEEE Transactions on Computers 2021* | **First-ranked Co-First Author, CCF-A** |
+| 6 | **Yuhan Wu**, Zirui Liu, Xiang Yu, et al. "MapEmbed: Perfect Hashing with High Load Factor and Fast Update." | *KDD 2021* | **First-ranked Co-First Author, CCF-A** |
+| 7 | **Yuhan Wu**, Siyuan Dong, Yi Zhou, et al. "Kvsagg: Secure aggregation of distributed key-value sets." | *ICDE 2023* | **First-ranked Co-First Author, CCF-A** |
+| 8 | Kaicheng Yang, **Yuhan Wu**, Ruijie Miao, et al. "ChameleMon: Shifting Measurement Attention as Network State Changes." | *SIGCOMM 2023* | **Co-First Author, CCF-A** |
+| 9 | Jiarui Guo, Yisen Hong, **Yuhan Wu**, et al. "SketchPolymer: Estimate Per-item Tail Quantile Using One Sketch." | *KDD 2023* | **Co-First Author, CCF-A** |
+| 10 | Zhuochen Fan, Zhoujing Hu, **Yuhan Wu**, et al. "PISketch: Finding Persistent and Infrequent Flows." | *IEEE/ACM Transactions on Networking* | **Co-First Author, CCF-A** |
 
 
 
