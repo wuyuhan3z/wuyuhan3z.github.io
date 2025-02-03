@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+I'm **Yuhan Wu (吴钰晗)** 👋, a **Ph.D. candidate 🎓** in **Computer Science 🖥️** at **Peking University 🏫**, advised by [Prof. Tong Yang](https://yangtonghome.github.io/). I expect to graduate in **2026**.
 
-I'm **Yuhan Wu (吴钰晗)**, a **Ph.D. candidate** in **Computer Science** at **Peking University**, advised by [Prof. Tong Yang](https://yangtonghome.github.io/). I expect to graduate in **2026**.
+My research interests center on **developing innovative data structures** for networks, storage, and databases (数据结构) 📚—an area where I've already achieved notable results. More recently, I've turned my focus to **large language models training (大语言模型训练) 🚀**, a field in which I'm actively making progress.
 
-My research interests lie in **new data structures across networks, storage, and databases (数据结构)**, where I have achieved significant research outcomes. Recently, I have been focusing on **LLMs(大语言模型)**, though my work in this area is still in progress.
+
 
 📧 **Email:** yuhan.wu AAT pku.edu.cn  
 💬 **WeChat:** yuhanwuuu  
@@ -25,6 +26,16 @@ My research interests lie in **new data structures across networks, storage, and
 - **Ph.D.(博士)** in **Computer Science (计算机学院)**  
   *2021 – 2026 (expected)*
 
+## Recent Practice (2024)
+
+| English | 中文 |
+|---------|------|
+| **Large Model MOE Structure Optimization**<br>*Cross-layer shared experts enable a 40% parameter reduction on an 8*0.5B model without compromising accuracy or activation.* | **大模型MOE结构设计优化**<br>跨层共享专家，在8*0.5B模型上节约40%参数量，同时保持精度和激活量不变。 |
+| **O1-like Model**<br>*Model distillation, chain-of-thought construction, SFT, and enhancement of mathematical and coding abilities.* | **O1-like模型**<br>模型蒸馏、思维链构建、SFT、数学代码能力提升。 |
+| **STEM Domain-Specific Large Model**<br>*A large model designed to solve competition-level problems in STEM fields.* | **STEM垂直领域大模型**<br>竞赛级难题解题。 |
+| **Tools for Large Models**<br>*Training: Megatron (百卡H800); Finetuning: DeepSpeed, LLaMA-Factory; Evaluation: OpenCompass, vLLM.* | **大模型相关工具使用**<br>训练：Megatron（百卡H800）；微调：DeepSpeed、LLaMA-Factory；评测：OpenCompass、vLLM。 |
+
+
 ## Fundings & Scholarships
 
 | Fundings & Scholarships                                        | 基金&奖学金                                              |
@@ -33,7 +44,7 @@ My research interests lie in **new data structures across networks, storage, and
 | **National Scholarship (China) (Top 1%)**            | 研究生国家奖学金，北大计算机Top 9                           |
 | **Presidential Scholarship (Top 1%)**                | 北京大学“博士研究生校长奖学金”，北大计算机Top 4              |
 | **Huawei Scholarship**                      | 华为奖学金                                                |
-| **Huawei Olympus Award**                    | 华为奥林帕斯先锋奖                                            |
+| **Huawei Olympus Award**                    | [华为奥林帕斯先锋奖](https://e.huawei.com/cn/topic/storage/olympus-mons-awards-2023)                                            |
 | **Tun Scholarship**                         | 北京大学董氏奖学金                                          |
 | **Wei Lin Scholarship**                     | 北京大学巍璘奖学金                                          |
 
@@ -41,8 +52,8 @@ My research interests lie in **new data structures across networks, storage, and
 
 | Awards                                                   | 获奖                                               |
 | ------------------------------------------------------- | --------------------------------------------------------- |
-| **Beijing Outstanding Undergraduate Thesis (Top 1%)**   | 北京市优秀本科毕业设计，全校35人入选，北大前1%               |
-| **PKU Junior Scholar (Top 1%)**            | 北京大学未名学士，拔尖计划，全校50人入选                     |
+| **Beijing Outstanding Undergraduate Thesis (Top 1%)**   | [北京市优秀本科毕业设计](https://jw.beijing.gov.cn/gjc/tzgg_15688/202110/t20211020_2516788.html)，全校35人入选，北大前1%               |
+| **PKU Junior Scholar (Top 1%)**            | [北京大学未名学士](https://mp.weixin.qq.com/s/TMkH5hfAtWP4Aqy3xZWObw)，拔尖计划，全校50人入选                     |
 | **Best Reviewer Award, KDD 2023**                       | KDD 杰出审稿人奖                                          |
 | **Top 10 Undergraduate Thesis Award, PKU EECS**         | 北京大学信息科学技术学院“十佳”本科毕业设计                   |
 | **Outstanding Undergraduate Research Award, PKU**       | 北京大学本科生科研训练优秀项目奖                           |
@@ -78,7 +89,7 @@ My research interests lie in **new data structures across networks, storage, and
 
 
 
-
+<!--
 
 ## Experience
 
@@ -88,5 +99,6 @@ Dates Employed: Oct. 2021 – Apr. 2022
 
 Location Beijing, China
 
+-->
 
-Last updated: February 3, 2025.
+
