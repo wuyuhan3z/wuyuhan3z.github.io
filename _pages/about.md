@@ -20,46 +20,44 @@ My research interests lie in **new data structures across networks, storage, and
 ## Education
 
 ### **Peking University(北京大学)**
-- **Ph.D.(博士)** in **Computer Science (计算机学院)**  
-  *2021 – 2026 (expected)*
 - **B.S.(本科)** in **Electronics Engineering and Computer Science (信息科学技术学院)**  
   *2017 – 2021*
+- **Ph.D.(博士)** in **Computer Science (计算机学院)**  
+  *2021 – 2026 (expected)*
 
 ## Fundings & Scholarships
 
-| Item                                        | Description                                               |
+| Fundings & Scholarships                                        | 基金&奖学金                                              |
 | ------------------------------------------- | --------------------------------------------------------- |
-| **NSFC Grant (300,000 RMB)**                | 国家自然科学基金博士研究生项目，30万元，北大计算机Top5        |
-| **National Scholarship (China)**            | 研究生国家奖学金，北大计算机Top 9                           |
-| **Presidential Scholarship**                | 北京大学“博士研究生校长奖学金”，北大计算机Top 4              |
+| **NSFC Grant (300,000 RMB) (Top 1%)**                | 国家自然科学基金博士研究生项目，30万元，北大计算机Top5        |
+| **National Scholarship (China) (Top 1%)**            | 研究生国家奖学金，北大计算机Top 9                           |
+| **Presidential Scholarship (Top 1%)**                | 北京大学“博士研究生校长奖学金”，北大计算机Top 4              |
 | **Huawei Scholarship**                      | 华为奖学金                                                |
-| **Huawei Olympus Award**                    | 华为奥林帕斯奖                                            |
+| **Huawei Olympus Award**                    | 华为奥林帕斯先锋奖                                            |
 | **Tun Scholarship**                         | 北京大学董氏奖学金                                          |
 | **Wei Lin Scholarship**                     | 北京大学巍璘奖学金                                          |
 
 ## Awards
 
-| Award                                                   | Description                                               |
+| Awards                                                   | 获奖                                               |
 | ------------------------------------------------------- | --------------------------------------------------------- |
-| **Best Reviewer Award, KDD 2023**                       | KDD 杰出审稿人奖                                          |
 | **Beijing Outstanding Undergraduate Thesis (Top 1%)**   | 北京市优秀本科毕业设计，全校35人入选，北大前1%               |
-| **PKU Junior Scholar (Top 1% / Top 50, <2%)**            | 北京大学未名学士，拔尖计划，全校50人入选                     |
+| **PKU Junior Scholar (Top 1%)**            | 北京大学未名学士，拔尖计划，全校50人入选                     |
+| **Best Reviewer Award, KDD 2023**                       | KDD 杰出审稿人奖                                          |
 | **Top 10 Undergraduate Thesis Award, PKU EECS**         | 北京大学信息科学技术学院“十佳”本科毕业设计                   |
 | **Outstanding Undergraduate Research Award, PKU**       | 北京大学本科生科研训练优秀项目奖                           |
-| **Academic Innovation Award, PKU**                      | 北京大学“学术创新奖”                                       |
-| **ACM-ICPC Asia Regional Contest Silver Medal**         |                                                           |
-| **National Olympiad in Informatics (NOI) Silver Medal**   |                                                           |
+| **Academic Innovation Award, PKU**                      | 北京大学“学术创新奖”                                       |、
 | **Excellent Graduate, PKU**                             | 北京大学优秀毕业生                                         |
 | **Pacemaker to Merit Student, PKU**                     | 北京大学三好学生标兵                                        |
 | **Merit Student, PKU**                                  | 北京大学三好学生                                          |
 
-## Competitive Programming
+## Competitions
 
-| Competition / Award                                               | Description                        |
+| Competitions                                               | 竞赛                        |
 | ----------------------------------------------------------------- | ---------------------------------- |
 | **NOI 2015 – Silver Medal**                                         | 全国信息学奥林匹克竞赛银牌             |
 | **NOI 2016 – Silver Medal**                                         | 全国信息学奥林匹克竞赛银牌             |
-| **ACM-ICPC Asia Regional Contest Shenyang Site 2018 – Silver Medal**  |                                    |
+| **ACM-ICPC Asia Regional Contest Shenyang Site 2018 – Silver Medal**  | ACM-ICPC 亚洲区域赛 沈阳站 2018 – 银牌 |
 
 
 ## Publications
@@ -80,61 +78,6 @@ My research interests lie in **new data structures across networks, storage, and
 
 
 
-
-## Honors and Awards
-
-
-### Scholarship
-
-National Scholarship (China), 研究生国家奖学金
-
-Presidental Scholarship, 北京大学“博士研究生校长奖学金” 
-
-Tun Scholarship, 北京大学董氏奖学金 
-
-Wei Lin Scholarship, 北京大学巍璘奖学金
-
-
-### Academic
-
-Best Reviewers of KDD 2023, KDD杰出审稿人奖
-
-PKU Junior Scholar (Top 50 (<2%) in PKU), 北京大学未名学士 
-
-Beijing outstanding undergraduate graduation thesis, 北京市优秀本科毕业设计 
-
-北京大学信息科学技术学院“十佳”本科毕业设计
-
-北京大学本科生科研训练优秀项目奖
-
-北京大学“学术创新奖”
-
-
-
-
-
-### Programming
-
-
-#### Olympiad in Informatics (2011-2016)
-
-National Olympiad in Informatics (NOI 2015), the silver medal, 全国信息学奥利匹克竞赛银牌 
-
-National Olympiad in Informatics (NOI 2016), the silver medal, 全国信息学奥利匹克竞赛银牌
-
-
-#### ACM-ICPC (2017-2018)
-
-The ACM-ICPC Asia Regional Contest Shenyang Site 2018, the Silver Medal
-
-
-### Others 
-
-Excellent Graduate in PKU, 北京大学优秀毕业生
-
-Pacemaker to Merit Student, 北京大学三好学生标兵
-
-Merit Student, 北京大学三好学生 
 
 
 ## Experience
