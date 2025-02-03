@@ -19,10 +19,11 @@ My research interests center on **developing innovative data structures (数据�
 
 ## Education 🎓
 
-| Degree | Institution | Major | Year |
-|--------|------------|------------------------------|------------------|
-| **B.S. (本科)** | Peking University (北京大学) | Electronics Engineering and Computer Science (信息科学技术学院) | *2017 – 2021* |
-| **Ph.D. (博士)** | Peking University (北京大学) | Computer Science (计算机学院) | *2021 – 2026 (expected)* |
+| Degree                   | Institution                             | Major                                                      | Year                     |
+|--------------------------|-----------------------------------------|------------------------------------------------------------|--------------------------|
+| **B.S.** <br> 本科      | Peking University <br> 北京大学           | Electronics Engineering and Computer Science <br> 信息科学技术学院 | *2017 – 2021*            |
+| **Ph.D.** <br> 博士     | Peking University <br> 北京大学           | Computer Science <br> 计算机学院                             | *2021 – 2026 (expected)* |
+
 
 ## Recent Practice (2024)
 
