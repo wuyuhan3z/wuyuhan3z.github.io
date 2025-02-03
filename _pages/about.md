@@ -17,14 +17,12 @@ My research interests center on **developing innovative data structures (数据�
 📧 **Email:** yuhan.wu AAT pku.edu.cn  
 💬 **WeChat:** yuhanwuuu  
 
+## Education 🎓
 
-## Education
-
-### **Peking University(北京大学)**
-- **B.S.(本科)** in **Electronics Engineering and Computer Science (信息科学技术学院)**  
-  *2017 – 2021*
-- **Ph.D.(博士)** in **Computer Science (计算机学院)**  
-  *2021 – 2026 (expected)*
+| Degree | Institution | Major | Year |
+|--------|------------|------------------------------|------------------|
+| **B.S. (本科)** | Peking University (北京大学) | Electronics Engineering and Computer Science (信息科学技术学院) | *2017 – 2021* |
+| **Ph.D. (博士)** | Peking University (北京大学) | Computer Science (计算机学院) | *2021 – 2026 (expected)* |
 
 ## Recent Practice (2024)
 
