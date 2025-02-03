@@ -55,7 +55,7 @@ My research interests center on **developing innovative data structures (数据�
 | **Best Reviewer Award, KDD 2023**                       | KDD 杰出审稿人奖                                          |
 | **Top 10 Undergraduate Thesis Award, PKU EECS**         | 北京大学信息科学技术学院“十佳”本科毕业设计                   |
 | **Outstanding Undergraduate Research Award, PKU**       | 北京大学本科生科研训练优秀项目奖                           |
-| **Academic Innovation Award, PKU**                      | 北京大学“学术创新奖”                                       |、
+| **Academic Innovation Award, PKU**                      | 北京大学“学术创新奖”                                       |
 | **Excellent Graduate, PKU**                             | 北京大学优秀毕业生                                         |
 | **Pacemaker to Merit Student, PKU**                     | 北京大学三好学生标兵                                        |
 | **Merit Student, PKU**                                  | 北京大学三好学生                                          |
