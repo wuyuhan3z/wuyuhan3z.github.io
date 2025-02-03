@@ -31,7 +31,7 @@ My research interests center on **developing innovative data structures (数据�
 | **Large Model MOE Structure Optimization**<br>*Cross-layer shared experts enable a 40% parameter reduction on an 8\*0.5B model without compromising accuracy or activation.* | **大模型MOE结构设计优化**<br>跨层共享专家，在8*0.5B模型上节约40%参数量，同时保持精度和激活量不变。 |
 | **O1-like Model**<br>*Model distillation, chain-of-thought construction, SFT, and enhancement of mathematical and coding abilities.* | **O1-like模型**<br>模型蒸馏、思维链构建、SFT、数学代码能力提升。 |
 | **STEM Domain-Specific Large Model**<br>*A large model designed to solve competition-level problems in STEM fields.* | **STEM垂直领域大模型**<br>竞赛级难题解题。 |
-| **Tools for Large Models**<br>*Training: Megatron (百卡H800); Finetuning: DeepSpeed, LLaMA-Factory; Evaluation: OpenCompass, vLLM.* | **大模型相关工具使用**<br>训练：Megatron（百卡H800）；微调：DeepSpeed、LLaMA-Factory；评测：OpenCompass、vLLM。 |
+| **Tools for Large Models**<br>*Training: Megatron (>100X H800); Finetuning: DeepSpeed, LLaMA-Factory; Evaluation: OpenCompass, vLLM.* | **大模型相关工具使用**<br>训练：Megatron（百卡H800）；微调：DeepSpeed、LLaMA-Factory；评测：OpenCompass、vLLM。 |
 
 
 ## Fundings & Scholarships
