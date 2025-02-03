@@ -21,4 +21,16 @@
   </ul>
 </div>
  -->
+
+  <div id="clustrmaps-wrapper"></div>
+  <script type="text/javascript">
+    (function() {
+      var s = document.createElement("script");
+      s.type = "text/javascript";
+      s.id = "clstr_globe";
+      s.src = "//clustrmaps.com/globe.js?d=xkAElyJD8J9IgaVebF_lOIci83cofciUdrVtlEy4-ls";
+      document.getElementById("clustrmaps-wrapper").appendChild(s);
+    })();
+  </script>
+
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
