@@ -87,7 +87,10 @@ My research interests center on **developing innovative data structures (数据�
 | 10 | Zhuochen Fan, Zhoujing Hu, **Yuhan Wu**, et al. "PISketch: Finding Persistent and Infrequent Flows." | *IEEE/ACM Transactions on Networking* | **Co-First Author, CCF-A** |
 
 
-
+## My Friends
+[Naiqian Zheng](https://www.zhengnq.com/) 郑乃千
+[Yikai Zhao](https://pkuzhao.net/) 赵义凯
+[Zirui Liu](https://zirui.cool/) 刘子瑞
 
 <!--
 
