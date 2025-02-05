@@ -88,9 +88,10 @@ My research interests center on **developing innovative data structures (数据�
 
 
 ## My Friends
-[Naiqian Zheng](https://www.zhengnq.com/) 郑乃千
-[Yikai Zhao](https://pkuzhao.net/) 赵义凯
-[Zirui Liu](https://zirui.cool/) 刘子瑞
+[Chenyang Yang](https://www.cs.cmu.edu/~cyang3/),
+[Naiqian Zheng](https://www.zhengnq.com/),
+[Yikai Zhao](https://pkuzhao.net/),
+[Zirui Liu](https://zirui.cool/),
 
 <!--
 
