@@ -95,7 +95,14 @@ My research interests center on **developing innovative data structures (数据�
 
 
 
+## Hiking
 
+| English | 中文 |  
+|---------|------|  
+| **Hiking** | **徒步** |  
+| Captain of Peking University Hiking Team (2024), President of Peking University Hiking Association (2025), Led a team on the XiaTa Grand Loop in Xinjiang. | 北京大学徒步队队长（2024），北京大学徒步爱好者协会会长与常务理事（2025），曾带队新疆夏塔大环线。 |  
+| **Trail Running** | **越野跑** |  
+| Finisher of ULTRA-TRAIL MOUNT YUN BY UTMB® 50KM category. | 云丘山越野赛 by UTMB 50KM组 完赛者。 |
 
 
 <!--
