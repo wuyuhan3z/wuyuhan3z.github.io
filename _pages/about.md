@@ -104,10 +104,10 @@ My research interests center on **developing innovative data structures (数据�
 | **Trail Running** | **越野跑** |  
 | Finisher of ULTRA-TRAIL MOUNT YUN BY UTMB® 50KM category. | 云丘山越野赛 by UTMB 50KM组 完赛者。 |
 
-![Image 1](images/p1)
-![Image 2](images/p2)
-![Image 3](images/p3)
-![Image 4](images/p4)
+<img src="https://wuyuhan3z.github.io/images/p1.png" alt="Image 1" width="300">
+<img src="https://wuyuhan3z.github.io/images/p2.png" alt="Image 2" width="300">
+<img src="https://wuyuhan3z.github.io/images/p3.png" alt="Image 3" width="300">
+<img src="https://wuyuhan3z.github.io/images/p4.png" alt="Image 4" width="300">
 
 <!--
 
