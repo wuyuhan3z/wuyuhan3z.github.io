@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-👋I'm **Yuhan Wu (吴钰晗)**, a Ph.D. candidate in Computer Science at **Peking University**, advised by [Prof. Tong Yang](https://yangtonghome.github.io/). I expect to graduate in 2026.
+I'm a research intern at [DeepSeek](https://www.deepseek.com/) and a Ph.D. candidate in Computer Science at Peking University, advised by  [Prof. Tong Yang](https://yangtonghome.github.io/). I expect to graduate in 2026.
 
-My research interests center on **developing innovative data structures (数据结构) 📚** for networks, databases, and storage —an area where I've already achieved notable results. More recently, I've turned my focus to **large language models training (大语言模型训练) 🚀**, a field in which I'm actively making progress.
+My recent research focuses on reinforcement learning, where I explore cutting-edge algorithms and applications. Previously, my research interests centered on developing innovative data structures 📚 for networks, databases, and storage systems—an area where I have achieved notable results.
 
+I love solving complex problems and collaborating on research.
 
 
 📧 **Email:** yuhan.wu AAT pku.edu.cn  
