@@ -54,7 +54,7 @@ I love solving complex problems and collaborating on research.
 | ------------------------------------------------------- | --------------------------------------------------------- |
 | **Beijing Outstanding Undergraduate Thesis (Top 1%)**   | [北京市优秀本科毕业设计](https://jw.beijing.gov.cn/gjc/tzgg_15688/202110/t20211020_2516788.html)，全校35人入选，北大前1%               |
 | **PKU Junior Scholar (Top 1%)**            | [北京大学未名学士](https://mp.weixin.qq.com/s/TMkH5hfAtWP4Aqy3xZWObw)，拔尖计划，全校50人入选                     |
-| **Best Reviewer Award, KDD 2023**                       | KDD 杰出审稿人奖                                          |
+| **Outstanding Reviewer Award, KDD 2023**                       | KDD 杰出审稿人奖                                          |
 | **Top 10 Undergraduate Thesis Award, PKU EECS**         | 北京大学信息科学技术学院“十佳”本科毕业设计                   |
 | **Outstanding Undergraduate Research Award, PKU**       | 北京大学本科生科研训练优秀项目奖                           |
 | **Academic Innovation Award, PKU**                      | 北京大学“学术创新奖”                                       |
