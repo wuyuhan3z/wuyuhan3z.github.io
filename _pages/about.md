@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research intern at [DeepSeek](https://www.deepseek.com/) and a Ph.D. candidate in Computer Science at Peking University, advised by  [Prof. Tong Yang](https://yangtonghome.github.io/). I expect to graduate in 2026.
+I'm a research intern at [**DeepSeek**](https://www.deepseek.com/) and a Ph.D. candidate in Computer Science at [**Peking University**](https://english.pku.edu.cn/), advised by  [Prof. Tong Yang](https://yangtonghome.github.io/). I expect to graduate in 2026.
 
-My recent research focuses on reinforcement learning, where I explore cutting-edge algorithms and applications. Previously, my research interests centered on developing innovative data structures 📚 for networks, databases, and storage systems—an area where I have achieved notable results.
+My recent research focuses on **reinforcement learning**, where I explore cutting-edge algorithms and applications. Previously, my research interests centered on developing innovative **data structures** 📚 for networks, databases, and storage systems—an area where I have achieved notable results.
 
 I love solving complex problems and collaborating on research.
 
