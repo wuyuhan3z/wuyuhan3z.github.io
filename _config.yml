@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuhan Wu"
+title                    : "Yuhan Wu (吴钰晗)"
 title_separator          : "-"
 name                     : &name "Yuhan Wu"
 description              : &description "Ph.D. at Peking University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuhan Wu"
+  name             : "Yuhan Wu (吴钰晗)"
   avatar           : "wyhprofile.jpg"
   bio              : "Ph.D. in Computer Science, Peking University"
   location         : "Beijing, China"
