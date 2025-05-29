@@ -31,7 +31,7 @@ I love solving complex problems and collaborating on research.
 | English | 中文 |
 |---------|------|
 | **Large Model MOE Structure Optimization**<br>*Cross-layer shared experts enable a 40% parameter reduction on an 8\*0.5B model without compromising accuracy or activation.* | **大模型MOE结构设计优化**<br>跨层共享专家，在8*0.5B模型上节约40%参数量，同时保持精度和激活量不变。 |
-| **O1-like Model**<br>*Model distillation, chain-of-thought construction, SFT, and enhancement of math, coding and science abilities.* <br> [TinyR1-32B-Preview](https://huggingface.co/qihoo360/TinyR1-32B-Preview)  | **O1-like模型**<br>模型蒸馏、思维链、SFT，提升模型数学代码科学能力。<br>[TinyR1-32B-Preview](https://huggingface.co/qihoo360/TinyR1-32B-Preview) 项目主要贡献者 |
+| **O1-like Model**<br>*Model distillation, chain-of-thought construction, SFT, and enhancement of math, coding and science abilities.* <br> [TinyR1-32B-Preview](https://huggingface.co/qihoo360/TinyR1-32B-Preview)  | **O1-like模型**<br>思维链、SFT，提升模型数学代码科学能力。<br>[TinyR1-32B-Preview](https://huggingface.co/qihoo360/TinyR1-32B-Preview) 项目主要贡献者 |
 | **STEM Domain-Specific Large Model**<br>*A large model designed to solve competition-level problems in STEM fields.* | **STEM垂直领域大模型**<br>竞赛级难题解题。 |
 | **Tools for Large Models**<br>*Training: Megatron (100× H800 GPUs); Finetuning: DeepSpeed, LLaMA-Factory; Evaluation: OpenCompass, vLLM.* | **大模型相关工具使用**<br>训练：Megatron（百卡H800）；微调：DeepSpeed、LLaMA-Factory；评测：OpenCompass、vLLM。 |
 
