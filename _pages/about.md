@@ -13,6 +13,8 @@ gallery:
     alt: "Photo 3"
   - image_path: /images/p4.jpg
     alt: "Photo 4"
+  - image_path: /images/p2.jpg
+    alt: "Photo 2"
 ---
 
 
