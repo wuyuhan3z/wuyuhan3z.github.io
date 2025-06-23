@@ -18,7 +18,6 @@ gallery:
 ---
 
 
-Welcome to my page.
 
 
 I'm a research intern at [**DeepSeek**](https://www.deepseek.com/) and a Ph.D. candidate in Computer Science at [**Peking University**](https://english.pku.edu.cn/), advised by  [**Prof. Tong Yang**](https://yangtonghome.github.io/). I expect to graduate in 2026.
