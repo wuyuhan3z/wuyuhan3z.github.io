@@ -7,19 +7,25 @@ redirect_from:
   - /about/
   - /about.html
 gallery:
-  - url: /images/p1.jpg
-    image_path: /images/p1.jpg
+  - image_path: /images/p1.jpg
     alt: "Photo 1"
-  - url: /images/p2.jpg
-    image_path: /images/p2.jpg
+  - image_path: /images/p2.jpg
     alt: "Photo 2"
-  - url: /images/p3.jpg
-    image_path: /images/p3.jpg
+  - image_path: /images/p3.jpg
     alt: "Photo 3"
-  - url: /images/p4.jpg
-    image_path: /images/p4.jpg
+  - image_path: /images/p4.jpg
     alt: "Photo 4"
 ---
+
+## Photos
+
+{% for image in page.gallery %}
+  <img src="{{ image.image_path | relative_url }}" alt="{{ image.alt }}" style="width: 45%; margin: 5px; border-radius: 8px;">
+{% endfor %}
+
+<br>
+<br>
+
 
 
 I'm a research intern at [**DeepSeek**](https://www.deepseek.com/) and a Ph.D. candidate in Computer Science at [**Peking University**](https://english.pku.edu.cn/), advised by  [**Prof. Tong Yang**](https://yangtonghome.github.io/). I expect to graduate in 2026.
