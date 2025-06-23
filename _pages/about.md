@@ -1,23 +1,25 @@
 ---
-permalink: /about/
-title: "About"
-layout: single
+permalink: /
+title: ""
+excerpt: ""
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 gallery:
   - url: /images/p1.jpg
     image_path: /images/p1.jpg
-    alt: "A nice description for photo 1"
+    alt: "Photo 1"
   - url: /images/p2.jpg
     image_path: /images/p2.jpg
-    alt: "A nice description for photo 2"
+    alt: "Photo 2"
   - url: /images/p3.jpg
     image_path: /images/p3.jpg
-    alt: "A nice description for photo 3"
+    alt: "Photo 3"
   - url: /images/p4.jpg
     image_path: /images/p4.jpg
-    alt: "A nice description for photo 4"
+    alt: "Photo 4"
 ---
-
 
 
 I'm a research intern at [**DeepSeek**](https://www.deepseek.com/) and a Ph.D. candidate in Computer Science at [**Peking University**](https://english.pku.edu.cn/), advised by  [**Prof. Tong Yang**](https://yangtonghome.github.io/). I expect to graduate in 2026.
@@ -117,11 +119,6 @@ I love solving complex problems and collaborating on research.
 | **Trail Running** | **越野跑** |  
 | Finisher of ULTRA-TRAIL MOUNT YUN BY UTMB® 50KM category. | 云丘山越野赛 by UTMB 50KM组 完赛者。 |
 
-## Photos
-Photo 1: https://wuyuhan3z.github.io/images/p1.jpg  
-Photo 2: https://wuyuhan3z.github.io/images/p2.jpg  
-Photo 3: https://wuyuhan3z.github.io/images/p3.jpg  
-Photo 4: https://wuyuhan3z.github.io/images/p4.jpg  
 
 <!--
 
