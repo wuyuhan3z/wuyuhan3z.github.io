@@ -17,15 +17,8 @@ gallery:
     alt: "Photo 4"
 ---
 
-## Photos
 
-{% for image in page.gallery %}
-  <img src="{{ image.image_path | relative_url }}" alt="{{ image.alt }}" style="width: 45%; margin: 5px; border-radius: 8px;">
-{% endfor %}
-
-<br>
-<br>
-
+Welcome to my page.
 
 
 I'm a research intern at [**DeepSeek**](https://www.deepseek.com/) and a Ph.D. candidate in Computer Science at [**Peking University**](https://english.pku.edu.cn/), advised by  [**Prof. Tong Yang**](https://yangtonghome.github.io/). I expect to graduate in 2026.
@@ -124,6 +117,17 @@ I love solving complex problems and collaborating on research.
 | Captain of Peking University Hiking Team (2024), President of Peking University Hiking Association (2025), Led a team on the XiaTa Grand Loop in Xinjiang. | 北京大学徒步队队长（2024），北京大学徒步爱好者协会会长与常务理事（2025），曾带队新疆夏塔大环线。 |  
 | **Trail Running** | **越野跑** |  
 | Finisher of ULTRA-TRAIL MOUNT YUN BY UTMB® 50KM category. | 云丘山越野赛 by UTMB 50KM组 完赛者。 |
+
+## Photos
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  {% for image in page.gallery %}
+    <img src="{{ image.image_path | relative_url }}" alt="{{ image.alt }}" style="width: 45%; margin: 5px; border-radius: 8px;">
+  {% endfor %}
+</div>
+
+<br>
+<br>
 
 
 <!--
