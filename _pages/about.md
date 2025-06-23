@@ -9,8 +9,6 @@ redirect_from:
 gallery:
   - image_path: /images/p1.jpg
     alt: "Photo 1"
-  - image_path: /images/p2.jpg
-    alt: "Photo 2"
   - image_path: /images/p3.jpg
     alt: "Photo 3"
   - image_path: /images/p4.jpg
