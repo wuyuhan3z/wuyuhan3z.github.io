@@ -1,12 +1,24 @@
 ---
-permalink: /
-title: ""
-excerpt: ""
+permalink: /about/
+title: "About"
+layout: single
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+gallery:
+  - url: /images/p1.jpg
+    image_path: /images/p1.jpg
+    alt: "A nice description for photo 1"
+  - url: /images/p2.jpg
+    image_path: /images/p2.jpg
+    alt: "A nice description for photo 2"
+  - url: /images/p3.jpg
+    image_path: /images/p3.jpg
+    alt: "A nice description for photo 3"
+  - url: /images/p4.jpg
+    image_path: /images/p4.jpg
+    alt: "A nice description for photo 4"
 ---
+
+
 
 I'm a research intern at [**DeepSeek**](https://www.deepseek.com/) and a Ph.D. candidate in Computer Science at [**Peking University**](https://english.pku.edu.cn/), advised by  [**Prof. Tong Yang**](https://yangtonghome.github.io/). I expect to graduate in 2026.
 
@@ -120,6 +132,15 @@ Alibaba Group Research Internship
 Dates Employed: Oct. 2021 – Apr. 2022
 
 Location Beijing, China
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 -->
 
